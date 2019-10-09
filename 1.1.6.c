@@ -1,3 +1,4 @@
+/*Crystian Alonso Chavez Jimenez,1AV6 ejercicio 6*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
