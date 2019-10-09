@@ -1,4 +1,4 @@
-/*programa que bpida la altura */
+/*Crystian Alonso Chavez Jimenez,1AV6 ejercicio 4*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
