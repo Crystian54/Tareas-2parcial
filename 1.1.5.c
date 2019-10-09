@@ -1,4 +1,4 @@
-/*el area y el circulo */
+/*Crystian Alonso Chavez Jimenez,1AV6 ejercicio 5*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
