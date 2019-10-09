@@ -1,3 +1,4 @@
+/*Crystian Alonso Chavez Jimenez,1AV6 ejercicio 8*/
 #include<stdio.h>
 #include<math.h>
 int main()
