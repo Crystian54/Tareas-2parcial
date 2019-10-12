@@ -7,7 +7,7 @@ int main (void){
     char n,o;
     do{
     printf("\nEscribe una letra, cual sea\t"); scanf("%c",&n);
-    if('a'==n || 'A'==n || 'e'==n || 'E'==n || 'i'==n || 'I'==n || 'o'==n || 'O'==n || 'u'==n || 'O'==n){
+    if('a'==n || 'A'==n || 'e'==n || 'E'==n || 'i'==n || 'I'==n || 'o'==n || 'O'==n || 'u'==n || 'U'==n){
         v=1;
     }
     else{
